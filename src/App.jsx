@@ -1,10 +1,12 @@
 import Todo from "./Pages/Todo"
+import Todo2 from "./Pages/Todo2"
 
 function App() {
 
 	return (
 		<>
-			<Todo />
+			{/* <Todo /> */}
+			<Todo2 />
 		</>
 	)
 }
